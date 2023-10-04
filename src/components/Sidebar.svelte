@@ -7,7 +7,7 @@
 
     <h1 class="font-title text-white text-3xl p-2 mb-2 phone:hidden"><strong>Godot Starting Guide</strong></h1>
     <SidebarBtn text="Intro & Install"/>
-    <SidebarBtn text="Creating The Project" link="creating_proj"/>
+    <SidebarBtn text="Project Setup" link="project_setup"/>
     <SidebarBtn text="Creating A Moving Character"/>
 
 </div>
