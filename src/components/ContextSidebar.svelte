@@ -16,8 +16,7 @@
                    <li>
                        <a 
                           href={item.url} 
-                          class="text-xl p-2 text-blue-700 hover:text-white hover:cursor-pointer"
-                       >
+                          class="text-xl p-2 text-blue-700 hover:text-white hover:cursor-pointer">
                           {i + 1}: {item.label}
                        </a>
                    </li>

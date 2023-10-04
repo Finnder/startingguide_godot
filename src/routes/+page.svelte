@@ -1,7 +1,7 @@
 <script>
     import ContextSidebar from "../components/ContextSidebar.svelte";
     import "../app.css"
-    import "../components/Pages/page_style.css"
+    import image from "../assets/gd-bg.jpg"
 </script>
 
 <main>
