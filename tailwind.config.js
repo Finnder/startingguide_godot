@@ -5,6 +5,9 @@ export default {
     fontFamily: {
         "title": ["Gabarito"]
     },
+    screens: {
+        "phone": { max: "640px" }
+    },
     extend: {}
   },
   plugins: []

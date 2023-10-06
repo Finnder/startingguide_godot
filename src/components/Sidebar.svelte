@@ -3,10 +3,16 @@
 
 </script>
 
-<div class="sidebar rounded-xl flex flex-col fixed w-1/6 bg-blue-400 h-screen p-3 phone:w-screen phone:h-1/6 phone:bottom-0 phone:flex-row phone:flex-auto">
+<div class="sidebar rounded-xl flex flex-col fixed w-1/6 bg-blue-400 h-5/6 p-3 phone:m-0 phone:rounded-none phone:w-screen phone:h-1/6 phone:bottom-0 phone:flex-row phone:flex-auto m-3 phone:overflow-x-auto">
 
     <h1 class="font-title text-white text-3xl p-2 mb-2 phone:hidden"><strong>Godot Starting Guide</strong></h1>
     <SidebarBtn text="Intro & Install" link=""/>
+    <SidebarBtn text="Project Setup" link="project_setup"/>
+    <SidebarBtn text="Project Setup" link="project_setup"/>
+    <SidebarBtn text="Project Setup" link="project_setup"/>
+    <SidebarBtn text="Project Setup" link="project_setup"/>
+    <SidebarBtn text="Project Setup" link="project_setup"/>
+    <SidebarBtn text="Project Setup" link="project_setup"/>
     <SidebarBtn text="Project Setup" link="project_setup"/>
 
 </div>
