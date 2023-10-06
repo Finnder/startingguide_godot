@@ -4,6 +4,22 @@
 @tailwind components;
 @tailwind utilities;
 
+.important-label {
+    @apply text-black bg-yellow-200 p-1 rounded;
+}
+
+.step {
+    @apply text-black bg-gray-200 rounded p-1 mr-1;
+}
+
+.step-list img {
+    @apply mx-auto w-1/3 rounded border border-black;
+}
+
+.step-list li {
+    @apply pt-4;
+}
+
 main {
     text-align: center;
     font-family:'Mooli',sans-serif;
@@ -19,8 +35,8 @@ h2 {
 }
 
 p {
-    color: rgb(10,10,10);
-    font-size: 20px;
+    color: rgb(50,50,50);
+    font-size: 23px;
 }
 
 .link {
