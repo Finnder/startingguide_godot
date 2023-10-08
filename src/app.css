@@ -4,6 +4,18 @@
 @tailwind components;
 @tailwind utilities;
 
+.broken-img {
+    @apply saturate-50 brightness-150;
+}
+
+img {
+    @apply w-1/4 mx-auto rounded mt-8 shadow-2xl;
+}
+
+h2 {
+    @apply font-title text-5xl;
+}
+
 .important-label {
     @apply text-black bg-yellow-200 p-1 rounded;
 }
@@ -26,7 +38,7 @@ main {
 }
 
 h1 {
-    font-size: 40px;
+    @apply font-title text-4xl;
 }
 
 h2 {

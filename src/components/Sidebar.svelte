@@ -8,11 +8,5 @@
     <h1 class="font-title text-white text-3xl p-2 mb-2 phone:hidden"><strong>Godot Starting Guide</strong></h1>
     <SidebarBtn text="Intro & Install" link=""/>
     <SidebarBtn text="Project Setup" link="project_setup"/>
-    <SidebarBtn text="Project Setup" link="project_setup"/>
-    <SidebarBtn text="Project Setup" link="project_setup"/>
-    <SidebarBtn text="Project Setup" link="project_setup"/>
-    <SidebarBtn text="Project Setup" link="project_setup"/>
-    <SidebarBtn text="Project Setup" link="project_setup"/>
-    <SidebarBtn text="Project Setup" link="project_setup"/>
-
+    <SidebarBtn text="Downloading Assets" link="downloading_assets"/>
 </div>
