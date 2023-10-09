@@ -9,4 +9,6 @@
     <SidebarBtn text="Intro & Install" link=""/>
     <SidebarBtn text="Project Setup" link="project_setup"/>
     <SidebarBtn text="Downloading Assets" link="downloading_assets"/>
+    <SidebarBtn text="Creating The World" link="creating_the_world"/>
+    <SidebarBtn text="Tile Set" link="tileset"/>
 </div>

@@ -3,6 +3,7 @@
     import "../app.css"
     import image from "../assets/gd-bg.jpg"
     import extractImg from "../assets/Step3-ExtractDownload.png"
+    import step1 from "../assets/Step1-Download.png"
 </script>
 
 <main>
@@ -30,7 +31,7 @@
     <a class="btn-download" href="https://github.com/godotengine/godot/releases/download/4.1.1-stable/Godot_v4.1.1-stable_win64.exe.zip">Windows</a>
     <a class="btn-download" href="https://github.com/godotengine/godot/releases/download/4.1.1-stable/Godot_v4.1.1-stable_macos.universal.zip">Mac</a>
 
-    <img class="w-2/4 mx-auto rounded mt-8 shadow-2xl" src={image} alt="">
+    <img class="w-2/4 mx-auto rounded mt-8 shadow-2xl" src={step1} alt="">
     
     <br>
     <h2 id="extracting">Extracting</h2>

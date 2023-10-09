@@ -2,7 +2,10 @@
     import ContextSidebar from "../../components/ContextSidebar.svelte";
 
     import downloadWebsite from "../../assets/Step9-AssetsDownload.png"
-    import assetfolder from "../../assets/Step10-AssetFolder.png"
+    import assetfolder from "../../assets/Step10-AssetFolder.png"       
+    import folderChange from "../../assets/Step11-AssetProjectFolder.png"
+    import moveassets from "../../assets/Step12-MoveAssetsToFolder.png"
+    
 
 </script>
 
@@ -12,6 +15,20 @@
 
     ]}/>
     <h1>Downloading Free Assets</h1>
+    <p>
+        In game development there are many free and open to use assets available. <br>
+        We are going to use some free to use assets, in our project.
+    </p>
+    
+    <br>
+    <div class="info-box">
+        <strong>Some things to ask for when downloading free assets...</strong>
+        <ul class="text-left">
+            <li>1. Do I need to give credit to the creator? (it will usually tell you)</li>
+            <li>2. Was the asset created in an ethical manner? (stolen, reuploaded, etc.)</li>
+        </ul>
+    </div>
+
     <br>
     <br>
 
@@ -27,9 +44,11 @@
         </li>
 
         <li>
-            <p><span class="step">Step 3</span></p>
-            <img class="broken-img w-1/3" src={assetfolder} alt="">
+            <p><span class="step">Step 3</span>Move the folder into a new "Assets"(create this) folder in your project files</p>
+            <img class="broken-img w-1/3" src={folderChange} alt="">
+            <img class="broken-img w-1/3" src={moveassets} alt="">
         </li>
+
     </ul>
 
 
