@@ -39,7 +39,7 @@
         </p></li>
         <img src={step3} alt="">
 
-        <li id="step4"><p><span class="step">Step 4</span></p>In the search bar look for a "TileMap" Node</li>
+        <li id="step4"><p><span class="step">Step 4</span>In the search bar look for a "TileMap" Node</p></li>
         <img class="broken-img" src={step4} alt="">
 
     </ul>

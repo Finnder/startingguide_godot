@@ -11,4 +11,6 @@
     <SidebarBtn text="Downloading Assets" link="downloading_assets"/>
     <SidebarBtn text="Creating The World" link="creating_the_world"/>
     <SidebarBtn text="Tile Set" link="tileset"/>
+    <SidebarBtn text="Creating The Player" link="creating_the_player"/>
+    <SidebarBtn text="Conclusion" link="conclusion"/>
 </div>

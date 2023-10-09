@@ -1,1 +1,1 @@
-export { default as component } from "../../../../src/routes/tileset/+page.svelte";
+export { default as component } from "../../../../src/routes/downloading_assets/+page.svelte";

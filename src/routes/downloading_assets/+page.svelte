@@ -11,7 +11,9 @@
 
 <main>
     <ContextSidebar contextItems={[
-        {label: "Downloading Assets", url: "download"}
+        {label: "Downloading Assets", url: "#step1"},
+        {label: "Downloads", url: "#step2"},
+        {label: "Move Downloaded Content", url: "#step3"},
 
     ]}/>
     <h1>Downloading Free Assets</h1>
@@ -33,17 +35,17 @@
     <br>
 
     <ul class="step-list text-xl mt-2">
-        <li>
+        <li id="step1">
             <p><span class="step">Step 1</span>Open the link and download the required assets for this tutorial</p>
             <p>Website: <a class="link" target="_blank" href="https://anokolisa.itch.io/sidescroller-pixelart-sprites-asset-pack-forest-16x16">assets here</a></p>
             <img class="broken-img w-1/3" src={downloadWebsite} alt="">
         </li>
-        <li>
+        <li id="step2">
             <p><span class="step">Step 2</span>Now that you've downloaded, open your downloads folder</p>
             <img class="broken-img w-1/3" src={assetfolder} alt="">
         </li>
 
-        <li>
+        <li id="step3">
             <p><span class="step">Step 3</span>Move the folder into a new "Assets"(create this) folder in your project files</p>
             <img class="broken-img w-1/3" src={folderChange} alt="">
             <img class="broken-img w-1/3" src={moveassets} alt="">
