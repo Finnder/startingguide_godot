@@ -14,7 +14,17 @@
 
 <main>
     
-    <ContextSidebar/>
+    <ContextSidebar contextItems={[
+        {label: "New Tile Set", url: "#step1"},
+        {label: "Drag Download", url: "#step2"},
+        {label: "Auto Creating Tiles", url: "#step3"},
+        {label: "Physics Layers", url: "#step4"},
+        {label: "Renaming Layers", url: "#step5"},
+        {label: "Adding Physical Bounderies", url: "#step6"},
+        {label: "Painting Tiles", url: "#step7"},
+        {label: "Painting A Ground", url: "#step8"},
+        {label: "Test", url: "#step9"},
+    ]}/>
     <br>
     <h1>Tile Set</h1>
     <div class="info-box text-lg">Tile sets function as a palette of tiles, enabling designers to craft the environments and worlds in which players interact.</div>
@@ -49,15 +59,15 @@
         <img class="broken-img w-1/4" src={step6} alt="">
 
         <br>
-        <li id="step6"><p><span class="step">Step 7</span>Select "TileMap" and now you can select tiles to paint on the grid </p></li>
+        <li id="step7"><p><span class="step">Step 7</span>Select "TileMap" and now you can select tiles to paint on the grid </p></li>
         <img class="broken-img w-1/4" src={step7} alt="">
 
         <br>
-        <li id="step6"><p><span class="step">Step 8</span>Now create a nice little ground for our player to move around on</p></li>
+        <li id="step8"><p><span class="step">Step 8</span>Now create a nice little ground for our player to move around on</p></li>
         <img class="broken-img w-1/3" src={step8} alt="">
 
         <br>
-        <li id="step6"><p><span class="step">Step 9</span>Now press play, and test the scene.</p></li>
+        <li id="step9"><p><span class="step">Step 9</span>Now press play, and test the scene.</p></li>
         <img class="broken-img w-1/3" src={step9} alt="">
 
     </ul>
