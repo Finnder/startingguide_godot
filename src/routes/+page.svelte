@@ -4,6 +4,7 @@
     import image from "../assets/gd-bg.jpg"
     import extractImg from "../assets/Step3-ExtractDownload.png"
     import step1 from "../assets/Step1-Download.png"
+    import Icon from "@iconify/svelte";
 </script>
 
 <main>
@@ -14,6 +15,8 @@
     ]}/>
 
     <h1 class="font-title" id="intro-section"><strong>Intro</strong></h1>
+    
+
     <h2>Welcome to the <span class="text-blue-500">Godot Starting Guide</span>!</h2>
     <p>A short and simple guide to creating your first project in Godot!</p>
     <br>

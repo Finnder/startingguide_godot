@@ -18,8 +18,9 @@
         {label: "Tile Map!", url: "#step4"}
 
     ]}/>
-    <h1>Creating The World!</h1> 
-
+    <h1><strong>Creating The World!</strong></h1> 
+    
+    <br>
     <div class="info-box text-lg">
         Everything you create in Godot is a Node, these Nodes consist of different components and scripts that are attached to them
     </div>

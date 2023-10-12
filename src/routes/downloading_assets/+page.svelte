@@ -16,7 +16,7 @@
         {label: "Move Downloaded Content", url: "#step3"},
 
     ]}/>
-    <h1>Downloading Free Assets</h1>
+    <h1><strong>Downloading Free Assets</strong></h1>
     <p>
         In game development there are many free and open to use assets available. <br>
         We are going to use some free to use assets, in our project.

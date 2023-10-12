@@ -19,7 +19,7 @@
         {label: "Step 4 - Create & Edit", url: "#step-4"},
     ]}/>
 
-    <h1>Project Setup</h1>
+    <h1 class="font-title"><strong>Project Setup</strong></h1>
     <h2 id="creating-the-proj">Creating The Project</h2>
     
     <ul class="step-list text-xl mt-2">

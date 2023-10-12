@@ -26,7 +26,7 @@
         {label: "Test", url: "#step9"},
     ]}/>
     <br>
-    <h1>Tile Set</h1>
+    <h1><strong>Tile Set</strong></h1>
     <div class="info-box text-lg">Tile sets function as a palette of tiles, enabling designers to craft the environments and worlds in which players interact.</div>
 
     <br>

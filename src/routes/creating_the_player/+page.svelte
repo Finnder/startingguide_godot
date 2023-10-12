@@ -35,7 +35,7 @@
 
     ]}/>
     <br>
-    <h1>Creating The Player</h1>
+    <h1><strong>Creating The Player</strong></h1>
 
     <ul>
        <br> 
