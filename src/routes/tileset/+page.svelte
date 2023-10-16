@@ -42,33 +42,33 @@
 
         <br>
         <li id="step3"><p><span class="step">Step 3</span>When importing it will pop up with a menu asking you if you want it to auto create the tile sheet, select "Yes"</p></li>
-        <img class="broken-img" src={step3} alt="">
+        <img class="" src={step3} alt="">
 
         <br>
         <li id="step4"><p><span class="step">Step 4</span>Now that the tile set is created, go to the right hand properties tab, and add a physics layers <br>
         This will make it so the player can collide with specific tiles.
         </p></li>
-        <img class="broken-img" src={step4} alt="">
+        <img src={step4} alt="">
 
         <br>
         <li id="step5"><p><span class="step">Step 5</span>Renaming your layers to something that makes sense is a very important part to keep things consistant</p></li>
-        <img class="broken-img w-1/6" src={step5} alt="">
+        <img class="w-1/6" src={step5} alt="">
 
         <br>
         <li id="step6"><p><span class="step">Step 6</span>Now you can select tiles and add bounderies to different tiles</p></li>
-        <img class="broken-img w-1/4" src={step6} alt="">
+        <img class="w-1/4" src={step6} alt="">
 
         <br>
         <li id="step7"><p><span class="step">Step 7</span>Select "TileMap" and now you can select tiles to paint on the grid </p></li>
-        <img class="broken-img w-1/4" src={step7} alt="">
+        <img class="w-1/4" src={step7} alt="">
 
         <br>
         <li id="step8"><p><span class="step">Step 8</span>Now create a nice little ground for our player to move around on</p></li>
-        <img class="broken-img w-1/3" src={step8} alt="">
+        <img class=" w-1/3" src={step8} alt="">
 
         <br>
         <li id="step9"><p><span class="step">Step 9</span>Now press play, and test the scene.</p></li>
-        <img class="broken-img w-1/3" src={step9} alt="">
+        <img class=" w-1/3" src={step9} alt="">
 
     </ul>
     <br>

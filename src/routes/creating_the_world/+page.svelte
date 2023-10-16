@@ -28,7 +28,6 @@
     <br>
     <ul class="step-list">
         <li id="step1"><p><span class="step">Step 1</span> Go ahead and click the "2D Scene" button, to create a 2D Scene :D</p></li>
-        <div class="info-box"><p class="text-xl">An important thing to note is that every "Scene" can be instantiated (created into a new version of itself) </p></div>
         <img src={step1} alt="">
 
         <li id="step2"><p><span class="step">Step 2</span> And we can go ahead and save your main scene (the 2D node) to a folder of your choice</p></li>
@@ -41,7 +40,8 @@
         <img src={step3} alt="">
 
         <li id="step4"><p><span class="step">Step 4</span>In the search bar look for a "TileMap" Node</p></li>
-        <img class="broken-img" src={step4} alt="">
+        <img class="" src={step4} alt="">
+        <br>
 
     </ul>
 

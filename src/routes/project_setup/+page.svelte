@@ -24,16 +24,16 @@
     
     <ul class="step-list text-xl mt-2">
         <li id="step-1"><span class="step">Step 1</span>Open the application (Godot), and select "New Project" on the right hand side of the application.</li>
-        <img class="broken-img" src={nameandcreate} alt="">
+        <img src={nameandcreate} alt="">
 
         <li id="step-2"><span class="step">Step 2</span>Select "Browse" to select a path for your project to go, and select "Mobile" rendering</li>
-        <img class="broken-img" src={createandedit} alt="">
+        <img src={createandedit} alt="">
 
         <li id="step-3"><span class="step">Step 3</span>Name your project & select "Create Folder"</li>
-        <img class="broken-img" src={makefolder} alt="">
+        <img src={makefolder} alt="">
 
         <li id="step-4"><span class="step">Step 4</span>Select "Create and Edit"</li>
-        <img class="broken-img" src={createedit} alt="">
+        <img src={createedit} alt="">
 
     </ul>
     <p></p>

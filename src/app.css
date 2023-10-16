@@ -5,7 +5,7 @@
 @tailwind utilities;
 
 .info-box {
-    @apply border bg-gray-200 w-fit mx-auto p-2 rounded;
+    @apply border bg-gray-200 w-fit mx-auto p-2 rounded max-w-[50%];
 }
 
 .info-box ul li{
@@ -53,6 +53,8 @@ h2 {
 p {
     color: rgb(50,50,50);
     font-size: 23px;
+    max-width: 50%;
+    margin: auto;
 }
 
 .link {
